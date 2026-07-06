@@ -60,7 +60,7 @@ automação de tarefas.
 
 **Ferramentas & Infra**
 
-![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Docker](https://skillicons.dev/icons?i=docker) ![AWS](https://skillicons.dev/icons?i=aws)
+![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Docker](https://skillicons.dev/icons?i=docker) ![AWS](https://skillicons.dev/icons?i=aws) ![Azure](https://skillicons.dev/icons?i=azure) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 
 **IA & Produtividade**
 
