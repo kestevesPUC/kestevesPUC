@@ -33,7 +33,7 @@ Dados extraídos do currículo de Kaio Gomes (PT-BR), fornecido pelo usuário.
    - Linguagens mais usadas (top langs)
    - Streak de contribuições (github-readme-streak-stats)
 6. **Contato (rodapé)** — badges de e-mail (kaiogomesbh@gmail.com), LinkedIn
-   (linkedin.com/in/kaio-esteves) e GitHub (github.com/kestevesPUC).
+   (https://www.linkedin.com/in/kaio-esteves/) e GitHub (github.com/kestevesPUC).
 
 ## Decisões técnicas
 - Tudo em um único `README.md` na raiz, usando markdown + HTML inline (padrão desses
