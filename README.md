@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Systems+Analyst;React+%7C+.NET+%7C+PHP%2FLaravel;React+Native+%7C+REST+APIs" alt="Typing SVG" />
 </a>
 
+![Seguidores](https://img.shields.io/github/followers/kestevesPUC?label=Seguidores&style=for-the-badge&color=1f6feb&logo=github&logoColor=white)
+![Repositórios](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FkestevesPUC&label=Reposit%C3%B3rios&query=%24.public_repos&style=for-the-badge&color=238636&logo=github&logoColor=white)
+![Seguindo](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FkestevesPUC&label=Seguindo&query=%24.following&style=for-the-badge&color=f0883e&logo=github&logoColor=white)
+
 </div>
 
 ## Sobre mim
@@ -52,6 +56,8 @@ automação de tarefas.
 ## GitHub Stats
 
 <div align="center">
+
+![Metrics](https://raw.githubusercontent.com/kestevesPUC/kestevesPUC/main/metrics.svg)
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=kestevesPUC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kestevesPUC&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
