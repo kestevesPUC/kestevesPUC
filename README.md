@@ -14,7 +14,7 @@
 
 ## Sobre mim
 
-Desenvolvedor Full Stack e Analista de Sistemas com mais de 4 anos de experiência
+Desenvolvedor Full Stack e Analista de Sistemas com <!--EXPERIENCE_YEARS-->mais de 4 anos<!--END_EXPERIENCE_YEARS--> de experiência
 no desenvolvimento de aplicações web e mobile, atuando com **React**, **.NET**,
 **PHP (Laravel)** e **React Native**. Tenho experiência sólida na construção,
 manutenção e evolução de sistemas, com foco em performance, escalabilidade e
