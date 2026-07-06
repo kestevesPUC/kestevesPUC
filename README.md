@@ -12,6 +12,19 @@
 
 </div>
 
+## GitHub Stats
+
+<div align="center">
+
+![Metrics](https://raw.githubusercontent.com/kestevesPUC/kestevesPUC/main/metrics.svg)
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kestevesPUC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kestevesPUC&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+
+<img src="https://streak-stats.demolab.com/?user=kestevesPUC&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
 ## Sobre mim
 
 Desenvolvedor Full Stack e Analista de Sistemas com <!--EXPERIENCE_YEARS-->mais de 4 anos<!--END_EXPERIENCE_YEARS--> de experiência
@@ -52,19 +65,6 @@ automação de tarefas.
 **IA & Produtividade**
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-## GitHub Stats
-
-<div align="center">
-
-![Metrics](https://raw.githubusercontent.com/kestevesPUC/kestevesPUC/main/metrics.svg)
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kestevesPUC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kestevesPUC&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kestevesPUC&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
 
 ## Contato
 
