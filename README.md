@@ -49,22 +49,30 @@
 
 ## Sobre mim
 
-Desenvolvedor Full Stack e Analista de Sistemas com <!--EXPERIENCE_YEARS-->mais de 4 anos<!--END_EXPERIENCE_YEARS--> de experiência
-no desenvolvimento de aplicações web e mobile, atuando com **React**, **.NET**,
-**PHP (Laravel)** e **React Native**. Tenho experiência sólida na construção,
-manutenção e evolução de sistemas, com foco em performance, escalabilidade e
-eficiência operacional.
+Sou Desenvolvedor Full Stack e Analista de Sistemas com <!--EXPERIENCE_YEARS-->mais de 4 anos<!--END_EXPERIENCE_YEARS--> de experiência no desenvolvimento de aplicações web e mobile, atuando com tecnologias como React, .NET, PHP (Laravel) e React Native.
 
-Atuo desde o levantamento de requisitos até a entrega da solução, com destaque
-para criação de automações e scripts que reduzem trabalho manual e aumentam a
-confiabilidade das operações. No dia a dia, uso ferramentas de IA como
-**Claude Code** e **Codex** para acelerar desenvolvimento, revisão de código e
-automação de tarefas.
+Tenho experiência sólida na construção, manutenção e evolução de sistemas, com foco em performance, escalabilidade e eficiência operacional. Atuo desde o levantamento de requisitos até a entrega de soluções, conectando necessidades de negócio com implementação técnica.
+
+Destaco-me pela criação de automações, rotinas e scripts para otimização de processos, reduzindo atividades manuais, aumentando produtividade e garantindo maior confiabilidade nas operações. No dia a dia, uso ferramentas de IA como **Claude Code** e **Codex** para acelerar desenvolvimento, revisão de código e automação de tarefas.
+
+Minha experiência inclui:
+
+- Desenvolvimento de aplicações web e mobile escaláveis
+- Criação e consumo de APIs REST e integrações entre sistemas
+- Automação de processos e desenvolvimento de scripts
+- Análise de sistemas e levantamento de requisitos
+- Criação de dashboards e análise de dados com Power BI
+- Suporte técnico e resolução de problemas complexos
+
+Também atuei com acompanhamento técnico de equipe, sendo responsável por revisar códigos, documentações e entregas de estagiários e técnicos, garantindo qualidade e boas práticas de desenvolvimento.
+
+Stack principal: React | .NET | PHP | Laravel | React Native | PostgreSQL | APIs REST | Power BI
+
+Busco oportunidades como Desenvolvedor Full Stack ou Analista de Sistemas, com foco em desenvolvimento de soluções escaláveis, automação de processos e evolução tecnológica.
 
 - 🔭 Atualmente em: **AETHRA - Automotive Systems**, como Analista de Desenvolvimento de Sistemas
 - 🎓 Bacharelado em Sistemas de Informação — PUC Minas (2021–2025)
 - 📍 Belo Horizonte, MG, Brasil
-- 💬 Stack principal: React · .NET · PHP (Laravel) · React Native · PostgreSQL · APIs REST · Power BI
 
 ## Contato
 
