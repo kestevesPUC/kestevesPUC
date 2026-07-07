@@ -18,31 +18,7 @@
 
 ![Metrics](https://raw.githubusercontent.com/kestevesPUC/kestevesPUC/main/metrics.svg)
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kestevesPUC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kestevesPUC&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-
-<img src="https://streak-stats.demolab.com/?user=kestevesPUC&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
 </div>
-
-## Sobre mim
-
-Desenvolvedor Full Stack e Analista de Sistemas com <!--EXPERIENCE_YEARS-->mais de 4 anos<!--END_EXPERIENCE_YEARS--> de experiência
-no desenvolvimento de aplicações web e mobile, atuando com **React**, **.NET**,
-**PHP (Laravel)** e **React Native**. Tenho experiência sólida na construção,
-manutenção e evolução de sistemas, com foco em performance, escalabilidade e
-eficiência operacional.
-
-Atuo desde o levantamento de requisitos até a entrega da solução, com destaque
-para criação de automações e scripts que reduzem trabalho manual e aumentam a
-confiabilidade das operações. No dia a dia, uso ferramentas de IA como
-**Claude Code** e **Codex** para acelerar desenvolvimento, revisão de código e
-automação de tarefas.
-
-- 🔭 Atualmente em: **AETHRA - Automotive Systems**, como Analista de Desenvolvimento de Sistemas
-- 🎓 Bacharelado em Sistemas de Informação — PUC Minas (2021–2025)
-- 📍 Belo Horizonte, MG, Brasil
-- 💬 Stack principal: React · .NET · PHP (Laravel) · React Native · PostgreSQL · APIs REST · Power BI
 
 ## Stack & Ferramentas
 
@@ -65,6 +41,27 @@ automação de tarefas.
 **IA & Produtividade**
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+
+## Sobre mim
+
+Desenvolvedor Full Stack e Analista de Sistemas com <!--EXPERIENCE_YEARS-->mais de 4 anos<!--END_EXPERIENCE_YEARS--> de experiência
+no desenvolvimento de aplicações web e mobile, atuando com **React**, **.NET**,
+**PHP (Laravel)** e **React Native**. Tenho experiência sólida na construção,
+manutenção e evolução de sistemas, com foco em performance, escalabilidade e
+eficiência operacional.
+
+Atuo desde o levantamento de requisitos até a entrega da solução, com destaque
+para criação de automações e scripts que reduzem trabalho manual e aumentam a
+confiabilidade das operações. No dia a dia, uso ferramentas de IA como
+**Claude Code** e **Codex** para acelerar desenvolvimento, revisão de código e
+automação de tarefas.
+
+- 🔭 Atualmente em: **AETHRA - Automotive Systems**, como Analista de Desenvolvimento de Sistemas
+- 🎓 Bacharelado em Sistemas de Informação — PUC Minas (2021–2025)
+- 📍 Belo Horizonte, MG, Brasil
+- 💬 Stack principal: React · .NET · PHP (Laravel) · React Native · PostgreSQL · APIs REST · Power BI
+
 
 ## Contato
 
