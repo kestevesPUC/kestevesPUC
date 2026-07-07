@@ -28,11 +28,11 @@
 
 **Frontend & Mobile**
 
-![React](https://skillicons.dev/icons?i=react) ![ReactNative Badge](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=white) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts)
+![React](https://skillicons.dev/icons?i=react) ![ReactNative Badge](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=white) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css)
 
 **Backend**
 
-![.NET](https://skillicons.dev/icons?i=dotnet) ![C#](https://skillicons.dev/icons?i=cs) ![PHP](https://skillicons.dev/icons?i=php) ![Laravel](https://skillicons.dev/icons?i=laravel) ![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![.NET](https://skillicons.dev/icons?i=dotnet) ![C#](https://skillicons.dev/icons?i=cs) ![PHP](https://skillicons.dev/icons?i=php) ![Laravel](https://skillicons.dev/icons?i=laravel) ![NodeJS](https://skillicons.dev/icons?i=nodejs) ![Python](https://skillicons.dev/icons?i=python) ![Windows Forms](https://img.shields.io/badge/Windows_Forms-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 **Dados**
 
