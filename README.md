@@ -70,7 +70,6 @@ Stack principal: React | .NET | PHP | Laravel | React Native | PostgreSQL | APIs
 
 Busco oportunidades como Desenvolvedor Full Stack ou Analista de Sistemas, com foco em desenvolvimento de soluções escaláveis, automação de processos e evolução tecnológica.
 
-- 🔭 Atualmente em: **AETHRA - Automotive Systems**, como Analista de Desenvolvimento de Sistemas
 - 🎓 Bacharelado em Sistemas de Informação — PUC Minas (2021–2025)
 - 📍 Belo Horizonte, MG, Brasil
 
