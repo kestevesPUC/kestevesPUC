@@ -16,11 +16,12 @@
 
 <div align="center">
 
-![Metrics](https://raw.githubusercontent.com/kestevesPUC/kestevesPUC/main/metrics.svg)
+<img alt="GitHub Stats" height="200" src="https://github-readme-stats-two-omega-43.vercel.app/api?username=kestevesPUC&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics" />
+<img alt="Top Languages" height="200" src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=kestevesPUC&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" />
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=kestevesPUC&theme=darkhub&no-frame=true&row=1&column=6)
+<br/>
 
-![Snake animation](https://raw.githubusercontent.com/kestevesPUC/kestevesPUC/output/github-contribution-grid-snake.svg)
+<img alt="Snake animation" src="https://raw.githubusercontent.com/kestevesPUC/kestevesPUC/output/github-contribution-grid-snake.svg" />
 
 </div>
 
@@ -46,7 +47,6 @@
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-
 ## Sobre mim
 
 Desenvolvedor Full Stack e Analista de Sistemas com <!--EXPERIENCE_YEARS-->mais de 4 anos<!--END_EXPERIENCE_YEARS--> de experiência
@@ -65,7 +65,6 @@ automação de tarefas.
 - 🎓 Bacharelado em Sistemas de Informação — PUC Minas (2021–2025)
 - 📍 Belo Horizonte, MG, Brasil
 - 💬 Stack principal: React · .NET · PHP (Laravel) · React Native · PostgreSQL · APIs REST · Power BI
-
 
 ## Contato
 
