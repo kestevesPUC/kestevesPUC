@@ -18,6 +18,10 @@
 
 ![Metrics](https://raw.githubusercontent.com/kestevesPUC/kestevesPUC/main/metrics.svg)
 
+![Trophy](https://github-profile-trophy.vercel.app/?username=kestevesPUC&theme=darkhub&no-frame=true&row=1&column=6)
+
+![Snake animation](https://raw.githubusercontent.com/kestevesPUC/kestevesPUC/output/github-contribution-grid-snake.svg)
+
 </div>
 
 ## Stack & Ferramentas
