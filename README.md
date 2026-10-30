@@ -29,7 +29,7 @@ Também reviso código e entregas de estagiários e desenvolvedores juniores, ma
 |---|---|
 | **Web e mobile** | Aplicações escaláveis com React, .NET, Laravel e React Native |
 | **APIs e microsserviços** | Criação e consumo de APIs REST, integração entre sistemas e arquiteturas de microsserviços com Docker |
-| **Dados** | Administração e otimização de bancos PostgreSQL; dashboards e análises com Power BI |
+| **Dados** | Administração e otimização de bancos PostgreSQL e SQL Server; dashboards e análises com Power BI |
 | **Automação** | Scripts e rotinas que reduzem trabalho manual |
 | **IA aplicada** | Estudo e prática de RAG e LangChain, com foco em governança de IA |
 | **Análise de sistemas** | Levantamento de requisitos, documentação e modernização de sistemas legados |
