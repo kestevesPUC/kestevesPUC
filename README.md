@@ -59,7 +59,7 @@ Antes da carreira em desenvolvimento, atuei por quase 3 anos no suporte técnico
 
 | Frontend & Mobile | Backend | Dados | Ferramentas & Infra |
 |:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=react,ts,js,html,css&perline=5" alt="React, TypeScript, JavaScript, HTML, CSS" /> | <img src="https://skillicons.dev/icons?i=dotnet,cs,php,laravel,nodejs,python&perline=6" alt=".NET, C#, PHP, Laravel, Node.js, Python" /> | <img src="https://skillicons.dev/icons?i=postgres,mysql,mssql&perline=3" alt="PostgreSQL, MySQL, SQL Server" /> | <img src="https://skillicons.dev/icons?i=git,github,docker,aws,azure&perline=5" alt="Git, GitHub, Docker, AWS, Azure" /> |
+| <img src="https://skillicons.dev/icons?i=react,ts,js,html,css&perline=5" alt="React, TypeScript, JavaScript, HTML, CSS" /> | <img src="https://skillicons.dev/icons?i=dotnet,cs,php,laravel,nodejs,python&perline=6" alt=".NET, C#, PHP, Laravel, Node.js, Python" /> | <img src="https://skillicons.dev/icons?i=postgres,mysql,mssql&perline=3" alt="PostgreSQL, MySQL, SQL Server" /> | <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,azure&perline=6" alt="Git, GitHub, Docker, Kubernetes, AWS, Azure" /> |
 
 ![React Native](https://img.shields.io/badge/React_Native-161b22?style=flat-square&logo=react&logoColor=61DAFB)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-161b22?style=flat-square&logo=swift&logoColor=F05138)
@@ -70,6 +70,7 @@ Antes da carreira em desenvolvimento, atuei por quase 3 anos no suporte técnico
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-161b22?style=flat-square&logo=azuredevops&logoColor=0078D7)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-161b22?style=flat-square&logo=anthropic&logoColor=D97757)
 ![Codex](https://img.shields.io/badge/Codex-161b22?style=flat-square&logo=openai&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-161b22?style=flat-square&logo=google&logoColor=4285F4)
 
 </div>
 
