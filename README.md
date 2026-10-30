@@ -1,85 +1,108 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Kaio%20Gomes&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Kaio%20Gomes&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20Applied%20AI&descSize=18&descAlignY=60" width="100%" alt="Kaio Gomes — Full-Stack Software Engineer | Applied AI" />
 
-<a href="https://github.com/kestevesPUC">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Systems+Analyst;React+%7C+.NET+%7C+PHP%2FLaravel;React+Native+%7C+REST+APIs" alt="Typing SVG" />
-</a>
+**React · TypeScript · Node.js · .NET/C# · React Native · PHP/Laravel · RAG & LangChain**
 
-![Seguidores](https://img.shields.io/github/followers/kestevesPUC?label=Seguidores&style=for-the-badge&color=1f6feb&logo=github&logoColor=white)
-![Repositórios](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FkestevesPUC&label=Reposit%C3%B3rios&query=%24.public_repos&style=for-the-badge&color=238636&logo=github&logoColor=white)
-![Seguindo](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FkestevesPUC&label=Seguindo&query=%24.following&style=for-the-badge&color=f0883e&logo=github&logoColor=white)
+📍 Belo Horizonte, MG, Brasil &nbsp;•&nbsp; 🌎 Aberto a oportunidades remotas
 
-</div>
-
-## GitHub Stats
-
-<div align="center">
-
-<img alt="GitHub Stats" height="200" src="https://github-readme-stats-two-omega-43.vercel.app/api?username=kestevesPUC&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics" />
-<img alt="Top Languages" height="200" src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=kestevesPUC&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" />
-
-<br/>
-
-<img alt="Snake animation" src="https://raw.githubusercontent.com/kestevesPUC/kestevesPUC/output/github-contribution-grid-snake.svg" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaio-esteves)
+[![Email](https://img.shields.io/badge/Email-1f6feb?style=flat-square&logo=gmail&logoColor=white)](mailto:kaiogomesbh@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/kestevesPUC)
+[![Instagram](https://img.shields.io/badge/Instagram-161b22?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/kaio_est)
 
 </div>
 
-## Stack & Ferramentas
-
-**Frontend & Mobile**
-
-![React](https://skillicons.dev/icons?i=react) ![ReactNative Badge](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=white) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css)
-
-**Backend**
-
-![.NET](https://skillicons.dev/icons?i=dotnet) ![C#](https://skillicons.dev/icons?i=cs) ![PHP](https://skillicons.dev/icons?i=php) ![Laravel](https://skillicons.dev/icons?i=laravel) ![NodeJS](https://skillicons.dev/icons?i=nodejs) ![Python](https://skillicons.dev/icons?i=python) ![Windows Forms](https://img.shields.io/badge/Windows_Forms-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-**Dados**
-
-![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MySQL](https://skillicons.dev/icons?i=mysql) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-**Ferramentas & Infra**
-
-![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Docker](https://skillicons.dev/icons?i=docker) ![AWS](https://skillicons.dev/icons?i=aws) ![Azure](https://skillicons.dev/icons?i=azure) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-
-**IA & Produtividade**
-
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+---
 
 ## Sobre mim
 
-Sou Desenvolvedor Full Stack e Analista de Sistemas com <!--EXPERIENCE_YEARS-->mais de 4 anos<!--END_EXPERIENCE_YEARS--> de experiência no desenvolvimento de aplicações web e mobile, atuando com tecnologias como React, .NET, PHP (Laravel) e React Native.
+Engenheiro de Software Full-Stack com <!--EXPERIENCE_YEARS-->mais de 4 anos<!--END_EXPERIENCE_YEARS--> de experiência em aplicações web e mobile com React, .NET/C#, PHP (Laravel) e React Native. Atuo do levantamento de requisitos à entrega, conectando necessidades de negócio a soluções técnicas com foco em **performance, escalabilidade e eficiência operacional**.
 
-Tenho experiência sólida na construção, manutenção e evolução de sistemas, com foco em performance, escalabilidade e eficiência operacional. Atuo desde o levantamento de requisitos até a entrega de soluções, conectando necessidades de negócio com implementação técnica.
+Atualmente curso duas pós-graduações em **IA Aplicada** (engenharia de software para IA e engenharia de IA/MLOps), com interesse em **RAG** e **LangChain**. No dia a dia, uso **Claude Code** e **Codex** para acelerar desenvolvimento, revisão de código e automação de tarefas.
 
-Destaco-me pela criação de automações, rotinas e scripts para otimização de processos, reduzindo atividades manuais, aumentando produtividade e garantindo maior confiabilidade nas operações. No dia a dia, uso ferramentas de IA como **Claude Code** e **Codex** para acelerar desenvolvimento, revisão de código e automação de tarefas.
+Também reviso código e entregas de estagiários e desenvolvedores juniores, mantendo qualidade e boas práticas.
 
-Minha experiência inclui:
+## O que eu faço
 
-- Desenvolvimento de aplicações web e mobile escaláveis
-- Criação e consumo de APIs REST e integrações entre sistemas
-- Automação de processos e desenvolvimento de scripts
-- Análise de sistemas e levantamento de requisitos
-- Criação de dashboards e análise de dados com Power BI
-- Suporte técnico e resolução de problemas complexos
+| | |
+|---|---|
+| **Web e mobile** | Aplicações escaláveis com React, .NET, Laravel e React Native |
+| **APIs e microsserviços** | Criação e consumo de APIs REST, integração entre sistemas e arquiteturas de microsserviços com Docker |
+| **Dados** | Administração e otimização de bancos PostgreSQL; dashboards e análises com Power BI |
+| **Automação** | Scripts e rotinas que reduzem trabalho manual |
+| **IA aplicada** | Estudo e prática de RAG e LangChain, com foco em governança de IA |
+| **Análise de sistemas** | Levantamento de requisitos, documentação e modernização de sistemas legados |
 
-Também atuei com acompanhamento técnico de equipe, sendo responsável por revisar códigos, documentações e entregas de estagiários e técnicos, garantindo qualidade e boas práticas de desenvolvimento.
+## Experiência
 
-Stack principal: React | .NET | PHP | Laravel | React Native | PostgreSQL | APIs REST | Power BI
+| Período | Cargo | Empresa |
+|:---|:---|:---|
+| ago/2026 – atual | **Desenvolvedor Pleno** | Sesc em Minas Gerais |
+| nov/2023 – abr/2026 | **Analista de Desenvolvimento de Sistemas Pl** | AETHRA – Automotive Systems |
+| ago/2023 – nov/2023 | **Desenvolvedor PHP Pleno** | Grupo Roma Brasil |
+| abr/2022 – ago/2023 | **Programador** | Krypton Tech |
 
-Busco oportunidades como Desenvolvedor Full Stack ou Analista de Sistemas, com foco em desenvolvimento de soluções escaláveis, automação de processos e evolução tecnológica.
+**Sesc em Minas Gerais** — Projeto e desenvolvimento de um sistema de controle de acesso **RBAC** com permissões por módulo e por ação, herança de permissões por perfil, exceções individuais (conceder/negar), negação por padrão e campos de auditoria.
 
-- 🎓 Bacharelado em Sistemas de Informação — PUC Minas (2021–2025)
-- 📍 Belo Horizonte, MG, Brasil
+**AETHRA** — Aplicações web e mobile com PHP, React, React Native, C# e .NET; criação, manutenção e monitoramento de microsserviços; containerização com Docker; administração e otimização de PostgreSQL; modernização de sistemas legados.
 
-## Contato
+**Grupo Roma Brasil** — Aplicações com PHP e Laravel para otimização de processos internos, microsserviços, integração de APIs REST e Docker, em times ágeis.
+
+**Krypton Tech** — Aplicações web (PHP/Laravel) e desktop (C#/.NET), microsserviços, Docker, PostgreSQL e dashboards em Power BI.
+
+Antes da carreira em desenvolvimento, atuei por quase 3 anos no suporte técnico da Link Certificação Digital, atendendo cerca de 12.000 clientes.
+
+## Stack
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaiogomesbh@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaio-gomes-b288a1208/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kestevesPUC)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaio_est)
+| Frontend & Mobile | Backend | Dados | Ferramentas & Infra |
+|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=react,ts,js,html,css&perline=5" alt="React, TypeScript, JavaScript, HTML, CSS" /> | <img src="https://skillicons.dev/icons?i=dotnet,cs,php,laravel,nodejs,python&perline=6" alt=".NET, C#, PHP, Laravel, Node.js, Python" /> | <img src="https://skillicons.dev/icons?i=postgres,mysql,mssql&perline=3" alt="PostgreSQL, MySQL, SQL Server" /> | <img src="https://skillicons.dev/icons?i=git,github,docker,aws,azure&perline=5" alt="Git, GitHub, Docker, AWS, Azure" /> |
+
+![React Native](https://img.shields.io/badge/React_Native-161b22?style=flat-square&logo=react&logoColor=61DAFB)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-161b22?style=flat-square&logo=swift&logoColor=F05138)
+![Power BI](https://img.shields.io/badge/Power_BI-161b22?style=flat-square&logo=powerbi&logoColor=F2C811)
+![LangChain](https://img.shields.io/badge/LangChain-161b22?style=flat-square&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-161b22?style=flat-square&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-161b22?style=flat-square&logo=jira&logoColor=0052CC)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-161b22?style=flat-square&logo=azuredevops&logoColor=0078D7)
+![Claude Code](https://img.shields.io/badge/Claude_Code-161b22?style=flat-square&logo=anthropic&logoColor=D97757)
+![Codex](https://img.shields.io/badge/Codex-161b22?style=flat-square&logo=openai&logoColor=white)
+
+</div>
+
+## Formação e certificações
+
+- 🎓 **Pós-graduação em Engenharia de Software em IA Aplicada** — UNIPDS (2026–2027)
+- 🎓 **Pós-graduação em Engenharia de Inteligência Artificial e MLOps** — PUC Minas (2026–2027)
+- 🎓 **Bacharelado em Sistemas de Informação** — PUC Minas (2021–2025)
+- 🗣️ **Inglês** — nível profissional (CNA+, 2025–2026)
+
+**Certificações:** AWS Academy Graduate — Cloud Foundations · Imersão Power BI · Microsoft Power BI para Business Intelligence e Data Science · React Native: APPs nativas para Android e iOS · Autenticação Stateful e Stateless em Microsserviços
+
+## Atividade no GitHub
+
+<div align="center">
+
+<img height="170" alt="Estatísticas do GitHub" src="https://github-readme-stats-two-omega-43.vercel.app/api?username=kestevesPUC&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&custom_title=Estat%C3%ADsticas" />
+<img height="170" alt="Linguagens mais usadas" src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=kestevesPUC&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&custom_title=Linguagens" />
+
+<br/><br/>
+
+<img alt="Gráfico de contribuições" src="https://raw.githubusercontent.com/kestevesPUC/kestevesPUC/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+## Objetivo
+
+Aberto a oportunidades **remotas** como **Desenvolvedor Full-Stack**, com foco em soluções escaláveis, automação de processos e IA aplicada.
+
+<div align="center">
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=90&section=footer" width="100%" alt="" />
 
 </div>
